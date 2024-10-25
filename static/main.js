@@ -53,7 +53,7 @@
         }
         );
          $("nav.navbar-fixed-top").removeClass("nav_border");
-         $(".changeable").attr("src", "img/logo-2.png");
+         $(".changeable").attr("src", "");
     }
 }
 );
