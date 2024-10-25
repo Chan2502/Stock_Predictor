@@ -2,7 +2,6 @@ tensorflow
 nltk==3.5
 keras
 numpy
-streamlit==0.52.1
 seaborn==0.11.1
 tweepy
 textblob==0.15.3
